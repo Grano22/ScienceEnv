@@ -1,7 +1,7 @@
 {
-  "name": "react-php-starterkit",
+  "name": "ScienceEnv",
   "version": "1.0.0",
-  "description": "",
+  "description": "ScienceEnv is a Science app with tools",
   "main": "index.js",
   "scripts": {
     "build": "webpack --progress --env.NODE_ENV=production --mode production",
